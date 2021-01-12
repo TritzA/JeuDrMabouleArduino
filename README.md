@@ -7,6 +7,7 @@ Préparation au projet avec la réalisation d'un compteur avec Arduino Uno.
 Projet final. Le but du jeu est de traverser tous le fil de métal avec un petit anneau sans le toucher.
 
 Inclus:
+
   -Un avertisseur sonore s'il y a contact
   
   -Un avertisseur visuel (led) s'il y a contact
