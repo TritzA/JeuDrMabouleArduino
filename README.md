@@ -10,7 +10,7 @@ Réalisation d'un compteur avec Arduino Uno.
 
 ![alt text](https://github.com/TritzA/JeuDrMabouleArduino/blob/main/gif.gif)
 
-##Projet final
+## Projet final
 
 Le but du jeu est de traverser tous le fil de métal avec un petit anneau sans le toucher.
 
