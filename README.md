@@ -1,5 +1,7 @@
 # JeuDrMabouleArduino
 
+Jeu similaire à celui du "Dr Maboule" réalisé avec le microcontrôleur Arduino Uno.
+
 ## Objectifs
 
 Réalisation d'un petit projet personnel en autodidacte pour me familiariser avec Arduino. Projet de confinement.
