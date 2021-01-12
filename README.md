@@ -1,10 +1,18 @@
 # JeuDrMabouleArduino
 
-Préparation au projet : réalisation d'un compteur avec Arduino Uno.
+## Objectifs
+
+Réalisation d'un petit projet personnel en autodidacte pour me familiariser avec Arduino. Projet de confinement.
+
+## Préparation au projet
+
+Réalisation d'un compteur avec Arduino Uno.
 
 ![alt text](https://github.com/TritzA/JeuDrMabouleArduino/blob/main/gif.gif)
 
-Projet final. Le but du jeu est de traverser tous le fil de métal avec un petit anneau sans le toucher.
+##Projet final
+
+Le but du jeu est de traverser tous le fil de métal avec un petit anneau sans le toucher.
 
 Inclus:
 
