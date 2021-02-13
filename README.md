@@ -1,4 +1,4 @@
-# JeuDrMabouleArduino
+# Jeu-Dr-Maboule-Arduino
 
 Jeu similaire à celui du "Dr Maboule" réalisé avec le microcontrôleur Arduino Uno.
 
